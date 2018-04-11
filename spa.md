@@ -1,5 +1,5 @@
 ---
-title: ClickClock.CC
+title: ¡Bienvenido!
 permalink: /spa/
 ---
 

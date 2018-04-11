@@ -4,6 +4,9 @@ title:
 github:
   "clickclockcc"
 
+theme:
+  jekyll-theme-cayman
+
 permalink:
   pretty
 

@@ -6,7 +6,7 @@ permalink: /eng/
 
 ## Welcome to Click Clock!
 
-Welcome to the *online* version of **ClickClock**.
+This is the *online* version of **ClickClock**.
 
 ### Coming soon:
 

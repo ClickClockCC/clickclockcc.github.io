@@ -1,10 +1,10 @@
 ---
-title: ¡Bienvenido!
+title: ¡Bienvenido a Click Clock!
 description: ¡Bienvenido a la versión en línea de ClickClock en español!
 permalink: /spa/
 ---
 
-## ¡Bienvenido!
+## ¡Bienvenido a Click Clock!
 
 Bienvenido a la versión *en línea* de **ClickClock**.
 

@@ -1,10 +1,10 @@
 ---
-title: Bem vindo!
+title: Bem vindo ao Click Clock!
 description: Bem vindo à versão online do ClickClock em português!
 permalink: /por/
 ---
 
-## Bem vindo!
+## Bem vindo ao Click Clock!
 
 Bem vindo à versão *online* do **ClickClock**.
 

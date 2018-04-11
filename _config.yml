@@ -1,0 +1,13 @@
+title:
+  "ClickClock.CC"
+
+github:
+  "clickclockcc"
+
+permalink:
+  pretty
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from

@@ -1,10 +1,10 @@
 ---
-title: Welcome!
+title: Welcome to Click Clock!
 description: Welcome to the online version of ClickClock in english!
 permalink: /eng/
 ---
 
-## Welcome!
+## Welcome to Click Clock!
 
 Welcome to the *online* version of **ClickClock**.
 

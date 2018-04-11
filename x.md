@@ -1,5 +1,6 @@
 ---
-title: ClickClock.CC
+title: ClickClock
+description: x-default
 permalink: /
 ---
 

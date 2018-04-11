@@ -10,7 +10,7 @@ permalink: /
 - [Português](https://ww.clickclock.cc/por/)
 
 <p align="center">
-<img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif" width="480" height="360" alt="gif"/>
+<img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif" width="480" height="360" alt="gif" style="width:100%;height:auto;"/>
 <br/><small><i>Animation by Tony Babel</i></small>
 </p>
 

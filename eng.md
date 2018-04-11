@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-description: Welcome do ClickClock.CC!
+description: Welcome To ClickClock.CC!
 permalink: /eng/
 ---
 

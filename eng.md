@@ -1,21 +1,22 @@
 ---
 title: Welcome!
-description: Welcome to ClickClock!
+description: Welcome to the online version of ClickClock in english!
 permalink: /eng/
 ---
 
 ## Welcome!
 
-Welcome to **ClickClock** in *english*.
+Welcome to the *online* version of **ClickClock**.
 
 ### Coming soon:
 
 - Alarm Clock
-- Timer
 - Stopwatch
+- Timer
+- Countdown
 - World Time
 - and more!
 
 ---
 
-🕘 [ClickClock.CC](https://ww.clickclock.cc/)
+🕘 [ClickClock.CC](https://ww.clickclock.cc/) in english

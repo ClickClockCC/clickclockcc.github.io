@@ -1,12 +1,15 @@
 
 title:
-  "ClickClock"
+  "ClickClock.CC"
 description:
-  "Cloud-based Clock"
-
+  "Cloud-based Clock
+  
 github:
   "ClickClockCC"
 
+theme:
+  jekyll-theme-cayman
+  
 permalink:
   pretty
 

@@ -10,4 +10,4 @@ Bem vindo ao **ClickClock**!
 
 ---
 
-[ClickClock.CC](https://ww.clickclock.cc/por/)
+[ClickClock.CC](https://ww.clickclock.cc/)

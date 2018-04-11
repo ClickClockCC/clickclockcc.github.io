@@ -17,6 +17,38 @@ permalink: /
 <br/><small><i>Animation by Tony Babel</i></small>
 </p>
 
+```
+- [ENG] English
+- [CMN] ?? Mandarin
+- [SPA] Español
+- [HIN] हिन्दी
+- [ARA] المنبه على الانترنت
+- [MSA] Bahasa Melayu
+- [RUS] Русский
+- [BEN] বাংলা
+- [POR] Português
+- [FRA] Français
+- [HAU] Harshen Hausa, هَرْشَن
+- [LAH] بھارت کا
+- [PAN] ਪੰਜਾਬੀ, پنجابی
+- [DEU] Deutsch
+- [JPN] 日本語
+- [FAS] فارسی
+- [SWA] Kiswahili
+- [TEL] తెలుగు
+- [ITA] Italiano
+- [JAV] ꦧꦱꦗꦮ
+- [WUU] ?? Wu Chinese (incl. Shanghainese)
+- [KOR] 한국어
+- [TAM] தமிழ்	
+- [MAR] मराठी
+- [YUE] ?? Yue Chinese (incl. Cantonese)
+- [VIE] Tiếng Việt
+
+- [ZHO] 中文
+
+```
+
 ---
 
 🕘 [ClickClock.CC](https://ww.clickclock.cc/)

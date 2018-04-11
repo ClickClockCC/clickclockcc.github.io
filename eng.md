@@ -1,5 +1,6 @@
 ---
 title: Welcome!
+description: Welcome do ClickClock.CC!
 permalink: /eng/
 ---
 
@@ -7,4 +8,4 @@ permalink: /eng/
 
 ---
 
-[ClickClock.CC](https://ww.clickclock.cc/eng/)
+[ClickClock.CC](https://ww.clickclock.cc/)

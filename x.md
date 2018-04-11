@@ -1,6 +1,5 @@
 ---
-title: ClickClock
-description: x-default
+description: English – Español – Português
 permalink: /
 ---
 

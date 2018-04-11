@@ -6,7 +6,7 @@ permalink: /spa/
 
 ## ¡Bienvenido a Click Clock!
 
-Bienvenido a la versión *en línea* de **ClickClock**.
+Esta es la versión *en línea* de **ClickClock**.
 
 ### Próximamente:
 

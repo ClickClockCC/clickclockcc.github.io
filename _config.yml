@@ -1,18 +1,10 @@
+title: "ClickClock"
 
-title:
-  "ClickClock"
-  
-description:
-  "Cloud-based Clock
-  
-github:
-  "ClickClockCC"
+description: "Cloud-based Clock
 
-theme:
-  jekyll-theme-cayman
+theme: jekyll-theme-cayman
   
-permalink:
-  pretty
+permalink: pretty
 
 gems:
   - jekyll-sitemap

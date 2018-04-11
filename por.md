@@ -6,7 +6,7 @@ permalink: /por/
 
 ## Bem vindo ao Click Clock!
 
-Bem vindo à versão *online* do **ClickClock**.
+Esta é a versão *online* do **ClickClock**.
 
 ### Em breve:
 
